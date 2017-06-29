@@ -1,3 +1,8 @@
+/*
+Ecological Bin Packing
+A complete search algorithm get AC on UVaOJ
+*/
+
 #include<cstdio>
 #include<string>
 using namespace std;
