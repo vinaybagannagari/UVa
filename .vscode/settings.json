@@ -2,6 +2,7 @@
     "files.associations": {
         "cmath": "cpp",
         "utility": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "xutility": "cpp"
     }
 }
